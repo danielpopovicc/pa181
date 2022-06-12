@@ -1,5 +1,4 @@
-# pybakers_street_ranking
-Street ranking app for Brno
+# Rate Brno
 
 # Run
 
