@@ -1,0 +1,4 @@
+applications:
+- name: rate-brno01
+  memory: 256M
+  buildpack: nodejs_buildpack

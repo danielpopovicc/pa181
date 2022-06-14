@@ -1,0 +1,17 @@
+{
+  "ServiceId": "com.ibm.cloudoe.orion.client.deploy",
+  "Params": {
+    "Target": {
+      "Url": "https://api.eu-de.cf.cloud.ibm.com",
+      "Org": "RateBrno",
+      "Space": "Ger"
+    },
+    "Name": "527383@mail.muni.cz-c1b2017650d149ab8654896e1bb80f5d",
+    "Instrumentation": {
+      "domain": "eu-de.mybluemix.net",
+      "instances": "1"
+    }
+  },
+  "Path": "manifest.yml",
+  "Type": "Cloud Foundry"
+}
